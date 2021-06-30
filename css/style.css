@@ -15,3 +15,11 @@
     border: 1px solid royalblue;
     background-color: #00E165;
 }
+
+.spazio{
+    height: 20px;
+}
+
+.col-empty{
+    height: 40px;
+}
