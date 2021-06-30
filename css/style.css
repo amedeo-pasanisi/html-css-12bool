@@ -1,7 +1,6 @@
 .row>div, .row>div>div {
     display: flex;
     justify-content: center;
-    align-items: center;
     padding: 10px;
     color: white;
 }
@@ -20,6 +19,22 @@
     height: 20px;
 }
 
+/* #spazio-bianco{
+    background-color: white;
+} */
+
 .col-empty{
     height: 40px;
+}
+
+/* .col-emptyx2{
+    height: 80px;
+} */
+
+.col-xs-12.space-between{
+    justify-content: space-between;
+}
+
+.col-xs-12.space-around{
+    justify-content: space-around;
 }
