@@ -1,0 +1,17 @@
+.row>div, .row>div>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+
+.row>div {
+    border: 1px solid white;
+    background-color: royalblue;
+}
+
+.row>div>div {
+    border: 1px solid royalblue;
+    background-color: #00E165;
+}
